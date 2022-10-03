@@ -1,2 +1,2 @@
 # An-lise-de-dados-em-Python-
-Código em python com o objetivo de análisar tabelas em excel, buscando um valor especifico presente nas tabelas para notificar via sms o valor pedido 
+Código em python com o objetivo de análisar tabelas no excel, procurando o valor solicitado, ao encontra enviar uma mensagem via sms com as informações solicitadas.  
